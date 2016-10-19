@@ -12,7 +12,7 @@ The recommended way to install go-textextract
 	import (
 		"fmt"
 
-		"github.com/go-textextract/textextract"
+		"github.com/tarylei/go-textextract/textextract"
 
 		"github.com/ddliu/go-httpclient"
 	)
