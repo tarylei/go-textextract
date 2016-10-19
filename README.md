@@ -1,7 +1,10 @@
 # go-textextract
 A Golang library for extracting title and content from HTML
-
-## Usage
+## Installation
+The recommended way to install go-textextract
+	go get github.com/tarylei/go-textextract
+	
+## Examples
 
 	package main
 
